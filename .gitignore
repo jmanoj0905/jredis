@@ -1,0 +1,25 @@
+# build output
+*.class
+
+# runtime data
+*.wal
+*.db
+jredis.wal
+
+# notes and working docs (not part of the project)
+DESIGN.md
+HANDOFF-PROMPT.md
+notes/
+scratch/
+
+# editor / tooling
+.idea/
+.vscode/
+.DS_Store
+*.iml
+.claude/
+CLAUDE.md
+.cursor/
+.cursorrules
+.aider*
+.github/copilot-instructions.md
